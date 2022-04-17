@@ -1,0 +1,2 @@
+# strength
+cs _CalculateBitEntropy Name:               _CalculateBitEntropy Description:        Calculate the bit entropy of a string. Author:             dany Parameters:         $sStr       - String: String to evaluate.                     $fCase      - Boolean: Do case-sensitive evaluation, default true. Return values:      Success:    - Float: Bit entropy.                     Failure:    - 0 and sets @error Link:               http://en.wikipedia.org/wiki/Password_strength#Entropy_as_a_measure_of_password_strength #ce
